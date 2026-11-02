@@ -1,5 +1,4 @@
 # Movie-ticket-simulator
-# Movie Ticket Simulator
 
 ## Description
 A C programming project designed to simulate an interactive movie ticket booking system. Users can select movie categories, choose titles, specify ticket quantities, and compute total costs.
